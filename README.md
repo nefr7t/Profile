@@ -46,9 +46,9 @@ Currently, I'm working with **Python (bots, utilities)**, exploring **Rust & C++
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nefr7t&theme=everforest&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nefr7t&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nefr7t&theme=everforest&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nefr7t&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -56,7 +56,7 @@ Currently, I'm working with **Python (bots, utilities)**, exploring **Rust & C++
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nefr7t&theme=everforest&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nefr7t&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -64,5 +64,5 @@ Currently, I'm working with **Python (bots, utilities)**, exploring **Rust & C++
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=everforest" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </div>
