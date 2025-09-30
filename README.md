@@ -1,7 +1,7 @@
 # Matvey | nefr7t
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=A7C080&center=true&vCenter=true&random=false&width=600&lines=Linux+Enthusiast;Python+Developer;ML+Learner;Rust+Explorer;C%2B%2B+Learner;NixOS+User" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=A7C080&center=true&vCenter=true&random=false&width=600&lines=Linux+Enthusiast;Python+Learner;ML+Learner;Rust+Explorer;C%2B%2B+Learner;NixOS+User" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
