@@ -1,19 +1,19 @@
 # Matvey | nefr7t
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=A7C080&center=true&vCenter=true&random=false&width=600&lines=Linux+Enthusiast;Python+Learner;ML+Learner;Rust+Explorer;C%2B%2B+Learner;NixOS+User" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=A7C080&center=true&vCenter=true&random=false&width=600&lines=Linux+Enthusiast;Python+Developer;ML+Hobbyist;Systems+Programmer;NixOS+User" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Matvey (nefr7t)** — a curious learner passionate about programming, Linux, and machine learning.  
-Currently, I'm working with **Python (bots, utilities)**, exploring **Rust & C++** and learning **Machine Learning** with **NumPy & Pandas**.
+Hey! I'm **Matvey (nefr7t)** — an ambitious developer and curious learner passionate about low-level systems, AI, and open-source utilities.
 
-- 🐧 **Linux & NixOS User**  
-- 💻 **Python Developer** (aiogram, CLI tools)  
-- 🦀 **Learning Rust**  
-- ➕ **Learning C++**  
-- 🤖 **Machine Learning** (NumPy, Pandas)  
+I primarily use **Python** for building CLI tools and Telegram bots, and I'm actively expanding my knowledge in systems programming and data science.
+
+- 🤖 **Data Science & AI:** Actively learning Machine Learning concepts with **NumPy** and **Pandas**.
+- 🐍 **Python:** Building tools like CLI utilities (such as [Wireguard-TUI](https://github.com/nefr7t/wireguard-tui)) and functional bots with **aiogram**.
+- 🦀 **Systems Programming:** Exploring **Rust** and **C++** for performance-critical projects.
+- 🐧 **Linux & NixOS:** Enthusiastic user and configuration architect on my personal systems.
 
 ---
 
@@ -31,7 +31,7 @@ Currently, I'm working with **Python (bots, utilities)**, exploring **Rust & C++
 ### Python Libraries
 ![aiogram](https://img.shields.io/badge/aiogram-A7C080?style=for-the-badge&logo=telegram&logoColor=2E322A)
 ![NumPy](https://img.shields.io/badge/numpy-83C092?style=for-the-badge&logo=numpy&logoColor=2E322A)
-![Pandas](https://img.shields.io/badge/pandas-A7C080?style=for-the-badge&logo=pandas&logoColor=2E322A)
+![Pandas](https://img.shields.io/badge/pandas-A7C080?style=for-for-the-badge&logo=pandas&logoColor=2E322A)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-A7C080?style=for-the-badge&logo=git&logoColor=2E322A)
