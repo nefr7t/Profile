@@ -7,13 +7,13 @@
 ## 👨‍💻 About Me
 
 Hey! I'm **Matvey (nefr7t)** — a curious learner passionate about programming, Linux, and machine learning.  
-Currently, I'm working with **Python (bots, utilities)**, exploring **Rust & C++**, diving deeper into **NixOS**, and learning **Machine Learning** with **NumPy & Pandas**.
+Currently, I'm working with **Python (bots, utilities)**, exploring **Rust & C++** and learning **Machine Learning** with **NumPy & Pandas**.
 
 - 🐧 **Linux & NixOS User**  
 - 💻 **Python Developer** (aiogram, CLI tools)  
-- 🦀 **Rust Beginner**  
-- ➕ **C++ Explorer**  
-- 🤖 **Machine Learning Learner** (NumPy, Pandas)  
+- 🦀 **Learning Rust**  
+- ➕ **Learning C++**  
+- 🤖 **Machine Learning** (NumPy, Pandas)  
 
 ---
 
