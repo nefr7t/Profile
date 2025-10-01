@@ -29,9 +29,12 @@ I primarily use **Python** for building CLI tools and Telegram bots, and I'm act
 ![Bash](https://img.shields.io/badge/bash-2E322A?style=for-the-badge&logo=gnu-bash&logoColor=A7C080)
 
 ### Python Libraries
-![aiogram](https://img.shields.io/badge/aiogram-A7C080?style=for-the-badge&logo=telegram&logoColor=2E322A)
-![NumPy](https://img.shields.io/badge/numpy-83C092?style=for-the-badge&logo=numpy&logoColor=2E322A)
-![Pandas](https://img.shields.io/badge/pandas-A7C080?style=for-for-the-badge&logo=pandas&logoColor=2E322A)
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/aiogram-A7C080?style=for-the-badge&logo=telegram&logoColor=2E322A&width=110" alt="aiogram Badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/numpy-83C092?style=for-the-badge&logo=numpy&logoColor=2E322A&width=110" alt="NumPy Badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/pandas-A7C080?style=for-the-badge&logo=pandas&logoColor=2E322A&width=110" alt="Pandas Badge"></a>
+</div>
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-A7C080?style=for-the-badge&logo=git&logoColor=2E322A)
