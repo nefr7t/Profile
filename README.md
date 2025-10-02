@@ -1,4 +1,4 @@
-# Matthew | nefr7t
+# Matthew | ion
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=A7C080&center=true&vCenter=true&random=false&width=600&lines=Linux+Enthusiast;Python+Developer;ML+Hobbyist;Systems+Programmer;NixOS+User" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Matthew (nefr7t)** — an ambitious developer and curious learner passionate about low-level systems, AI, and open-source utilities.
+Hey! I'm **Matthew (ion)** — an ambitious developer and curious learner passionate about low-level systems, AI, and open-source utilities.
 
 I primarily use **Python** for building CLI tools and Telegram bots, and I'm actively expanding my knowledge in systems programming and data science.
 
